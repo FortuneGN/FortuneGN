@@ -18,5 +18,20 @@ Aꜱᴘɪʀɪɴɢ Cyber Security Analyst | Fullstack | Blockchain |
 
 
 ## About ::
-   Bsc. 3rd year Computer Science student with a concentration in <b> Cybersecurity and Blockchain technologies</b>. Passionate about Cybersecurity, building complex Web Apps, Blockcain and Entrepreneurship. Also, have some experience in Web Development with React Ecosystem. Currently learning new technologies to implement on real world projects. **Love** to contribute to open-source.
+   Bsc. 3rd year Computer Science student with a concentration in <b> Cybersecurity and Blockchain technologies</b>. Passionate about Cybersecurity, building complex Web Apps, Blockcain and Entrepreneurship. Also, have some experience in Web Development using React Ecosystem. Currently learning new technologies to implement on real world projects. **Love** to contribute to open-source.
 
+## Technologies :fire🔥🔥:
+- Data Analysis with **Python**.
+- Data Science.
+- Python.
+- Machine Learning
+- Deep Learning
+
+
+## Talking about personal stuff ::
+-  My interests are with Natural Language Processing/Understanding, Computer vision, Deep Learning, etc..;
+- While Coding, Listening Music and developing useful code.⭐️
+- Just loved to Explore new Tech Stacks.💻
+- Always Willing to help (Altruistic). ✋
+- 👨🏽‍💻 I’m currently working on improving my techskill;
+- 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between😸😸
