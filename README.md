@@ -15,4 +15,8 @@
 <br/>
 
 Aꜱᴘɪʀɪɴɢ Cyber Security Analyst | Fullstack | Blockchain | 
-【P】【y】【t】【h】【o】【n】
+
+
+## About ::
+   Bsc 3rd year Computer Science student with a concentration in <b> Cybersecurity and Blockchain technologies</b>. Passionate about Data Science, Machine Learning and open source. Also, have some experience in Android Development with flutter and Data Analysis. Currently learning new technologies to implement on real world projects. **Love** to contribute to open-source.
+
