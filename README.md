@@ -39,7 +39,7 @@ Open for Internships
 - 👨🏽‍💻 I’m currently working on improving my techskill;
 
 ##  Let's connect :speech_balloon:
- [![Gmail Badge](https://img.shields.io/badge/-fortune.nkanang@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashwanicena5@gmail.com)](mailto:fortune.nkanang@gmail.com)
+ [![Gmail Badge](https://img.shields.io/badge/-fortune.nkanang@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=(mailto:fortune.nkanang@gmail.com)]
 
 
 
