@@ -15,6 +15,7 @@
 <br/>
 
 Aꜱᴘɪʀɪɴɢ Cyber Security Analyst | Software Engineering | Blockchain | 
+Open for Internships
 
 
 ## About ::
@@ -37,3 +38,9 @@ Aꜱᴘɪʀɪɴɢ Cyber Security Analyst | Software Engineering | Blockchain |
 - Always Willing to help (Altruistic). ✋
 - 👨🏽‍💻 I’m currently working on improving my techskill;
 
+##  Let's connect :speech_balloon:
+ [![Gmail Badge](https://img.shields.io/badge/-fortune.nkanang@gmail.com?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashwanicena5@gmail.com)](mailto:fortune.nkanang@gmail.com)
+
+
+
+⭐️ From Fortune
