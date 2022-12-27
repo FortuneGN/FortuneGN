@@ -13,3 +13,6 @@
 
 <br/>
 <br/>
+
+Aꜱᴘɪʀɪɴɢ Cyber Security Analyst | Fullstack | Blockchain | 
+【P】【y】【t】【h】【o】【n】
