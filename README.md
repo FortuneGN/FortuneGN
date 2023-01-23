@@ -26,7 +26,6 @@ Open for Internships
 - Javascript
 - Python.
 - React
-- Next.js
 - Git and Github
 
 
