@@ -27,6 +27,8 @@ Open for Internships
 - Python.
 - React
 - Git and Github
+- Django
+- Ruby
 
 
 ## Talking about personal stuff ::
